@@ -14,9 +14,11 @@ J
 src/baekjoon/Bjo10828.java,d/a/dac58133276f1a3ecbb82706d8b2a893f8b32f2a
 J
 src/baekjoon/Bjo11718.java,b/3/b3a68ed8da9f723a046413a5313555ea5a32f8f2
-J
-src/baekjoon/Bjo11022.java,0/4/04aba8726595fb48522c91ed0c81dd08b31fa9b3
 =
 algorithm.iml,1/6/1648eeac5c90967ac9aba4bdea7c72a8ab9f970f
 I
 src/baekjoon/Bjo1924.java,a/c/aceff855193960a034f7fbeb5f56252c09477316
+J
+src/baekjoon/Bjo10430.java,e/0/e0f3c113b51c8dababada3fb7c9818ff5ecd2574
+I
+src/baekjoon/Bjo1463.java,2/5/25fb83d9927caf07b9f5c905e9fe85443e51d59f
