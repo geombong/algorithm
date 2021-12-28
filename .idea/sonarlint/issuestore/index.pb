@@ -21,3 +21,9 @@ J
 src/baekjoon/Bjo11022.java,0/4/04aba8726595fb48522c91ed0c81dd08b31fa9b3
 J
 src/baekjoon/Bjo11050.java,e/f/efcd666bf53f318125ea9940e6d2ceeea50f18cd
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+I
+src/baekjoon/Bjo2869.java,6/9/6931a388e2e3ad056715c5aaebb2137e5d35cb61
+J
+src/baekjoon/Bjo10828.java,d/a/dac58133276f1a3ecbb82706d8b2a893f8b32f2a
