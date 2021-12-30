@@ -23,8 +23,6 @@ J
 src/baekjoon/Bjo11050.java,e/f/efcd666bf53f318125ea9940e6d2ceeea50f18cd
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-I
-src/baekjoon/Bjo2869.java,6/9/6931a388e2e3ad056715c5aaebb2137e5d35cb61
 J
 src/baekjoon/Bjo10828.java,d/a/dac58133276f1a3ecbb82706d8b2a893f8b32f2a
 :
@@ -34,3 +32,5 @@ I
 src/baekjoon/Bjo2751.java,d/6/d685224327885dcabad13baddac23cfec318f738
 I
 src/baekjoon/Bjo9012.java,9/a/9a0940726a6d89a12ce02d916952636d2f347168
+I
+src/baekjoon/Bjo1085.java,0/b/0bd782c2572c8b8b8ff031379b7c20a387764bac

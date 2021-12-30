@@ -24,3 +24,4 @@
 | <a href = https://www.acmicpc.net/problem/9012>괄호</a>          | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo9012.java>💻</a>  |  |
 | <a href = https://www.acmicpc.net/problem/2751>수 정렬하기 2</a>    | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo2751.java>💻</a>  |  |
 | <a href = https://www.acmicpc.net/problem/1085>직사각형에서 탈출</a>   | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo1085.java>💻</a>  |  |
+| <a href = https://www.acmicpc.net/problem/10989>수 정렬하기 3</a>   | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo10989.java>💻</a> |  |
