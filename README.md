@@ -7,6 +7,10 @@
 
 - <a href = https://solved.ac/profile/spsifls22>백준 프로필</a>
 
+<details>
+<summary>📒백준 문제</summary>
+<div markdown="1">
+
 | 문제                                                             | 코드                                                                                            | 풀이 |
 |----------------------------------------------------------------|-----------------------------------------------------------------------------------------------| --- |
 | <a href = https://www.acmicpc.net/problem/10430>나머지</a>        | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo10430.java>💻</a> |  |
@@ -26,3 +30,22 @@
 | <a href = https://www.acmicpc.net/problem/1085>직사각형에서 탈출</a>   | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo1085.java>💻</a>  |  |
 | <a href = https://www.acmicpc.net/problem/10989>수 정렬하기 3</a>   | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo10989.java>💻</a> |  |
 | <a href = https://www.acmicpc.net/problem/2750>수 정렬하기</a>      | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo2750.java>💻</a>  |  |
+
+</div>
+</details>
+
+### 코드포스
+
+- <a href = https://codeforces.com/profile/geombong>코드포스 프로필</a>
+
+<details>
+<summary>📒코드포스 문제</summary>
+<div markdown="1">
+
+| 문제                                                                  | 코드                                                                                                   | 풀이 |
+|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------| --- |
+| <a href = https://codeforces.com/contest/4/problem/A>Watermelon</a> | <a href = https://github.com/geombong/algorithm/blob/master/src/codeforces/CofWatermelon.java>💻</a> |  |
+|                                                                     |                                                                                                      |  |
+
+</div>
+</details>
