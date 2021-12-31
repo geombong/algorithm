@@ -34,3 +34,7 @@ I
 src/baekjoon/Bjo9012.java,9/a/9a0940726a6d89a12ce02d916952636d2f347168
 I
 src/baekjoon/Bjo1085.java,0/b/0bd782c2572c8b8b8ff031379b7c20a387764bac
+I
+src/baekjoon/Bjo2869.java,6/9/6931a388e2e3ad056715c5aaebb2137e5d35cb61
+J
+src/baekjoon/Bjo10989.java,4/a/4a496b9fda5aa49ef731cf1d76a51f3eafd58fde
