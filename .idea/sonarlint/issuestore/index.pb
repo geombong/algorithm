@@ -38,3 +38,7 @@ I
 src/baekjoon/Bjo2869.java,6/9/6931a388e2e3ad056715c5aaebb2137e5d35cb61
 J
 src/baekjoon/Bjo10989.java,4/a/4a496b9fda5aa49ef731cf1d76a51f3eafd58fde
+I
+src/baekjoon/Bjo2750.java,4/0/409bd9c8963e909d2be04de7211f88d2e142c04d
+Q
+!src/codeforces/CofWatermelon.java,4/5/4583b4a5e5134928ce9c0107ca6f1f5f6c9c67b2
