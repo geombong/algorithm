@@ -19,8 +19,6 @@ J
 src/baekjoon/Bjo11050.java,e/f/efcd666bf53f318125ea9940e6d2ceeea50f18cd
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-J
-src/baekjoon/Bjo10828.java,d/a/dac58133276f1a3ecbb82706d8b2a893f8b32f2a
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -38,3 +36,13 @@ I
 src/baekjoon/Bjo2750.java,4/0/409bd9c8963e909d2be04de7211f88d2e142c04d
 Q
 !src/codeforces/CofWatermelon.java,4/5/4583b4a5e5134928ce9c0107ca6f1f5f6c9c67b2
+J
+src/baekjoon/Bjo11718.java,b/3/b3a68ed8da9f723a046413a5313555ea5a32f8f2
+J
+src/baekjoon/Bjo11022.java,0/4/04aba8726595fb48522c91ed0c81dd08b31fa9b3
+J
+src/baekjoon/Bjo10814.java,1/d/1d1c4724fae548d59f4231504e942329dbb48a65
+J
+src/baekjoon/Bjo11650.java,d/b/db677ddaa3c408935d8b8a37beaa482e5c15f03b
+J
+src/baekjoon/Bjo11651.java,2/3/233b4cf175c885495a287c9dd1825594f921ab52
