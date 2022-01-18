@@ -32,8 +32,6 @@ J
 src/baekjoon/Bjo10989.java,4/a/4a496b9fda5aa49ef731cf1d76a51f3eafd58fde
 I
 src/baekjoon/Bjo2750.java,4/0/409bd9c8963e909d2be04de7211f88d2e142c04d
-Q
-!src/codeforces/CofWatermelon.java,4/5/4583b4a5e5134928ce9c0107ca6f1f5f6c9c67b2
 J
 src/baekjoon/Bjo11718.java,b/3/b3a68ed8da9f723a046413a5313555ea5a32f8f2
 J
@@ -52,5 +50,3 @@ J
 src/baekjoon/Bjo10828.java,d/a/dac58133276f1a3ecbb82706d8b2a893f8b32f2a
 J
 src/baekjoon/Bjo11399.java,9/c/9c167c2e910d25bce039c000b0ae588fa61967ca
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
