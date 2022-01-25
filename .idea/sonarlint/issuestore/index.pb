@@ -31,22 +31,22 @@ J
 J
 src/baekjoon/Bjo11022.java,0/4/04aba8726595fb48522c91ed0c81dd08b31fa9b3
 J
-src/baekjoon/Bjo10814.java,1/d/1d1c4724fae548d59f4231504e942329dbb48a65
-J
 src/baekjoon/Bjo11650.java,d/b/db677ddaa3c408935d8b8a37beaa482e5c15f03b
 J
 src/baekjoon/Bjo11651.java,2/3/233b4cf175c885495a287c9dd1825594f921ab52
 I
 src/baekjoon/Bjo1181.java,b/4/b44a5376390e532ff1b14842100d298c4c8eac99
 J
-src/baekjoon/Bjo10845.java,6/6/662ebed518a5c533ef77d756493560e04e02cc75
-J
-src/baekjoon/Bjo10828.java,d/a/dac58133276f1a3ecbb82706d8b2a893f8b32f2a
-J
 src/baekjoon/Bjo11399.java,9/c/9c167c2e910d25bce039c000b0ae588fa61967ca
 =
 algorithm.iml,1/6/1648eeac5c90967ac9aba4bdea7c72a8ab9f970f
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 Q
 !src/codeforces/CofWatermelon.java,4/5/4583b4a5e5134928ce9c0107ca6f1f5f6c9c67b2
+I
+src/baekjoon/Bjo2751.java,d/6/d685224327885dcabad13baddac23cfec318f738
+I
+src/baekjoon/Bjo9012.java,9/a/9a0940726a6d89a12ce02d916952636d2f347168
+J
+src/baekjoon/Bjo10773.java,9/6/966f9e287ad0e71d105de76842ba64707a7e32d1
+J
+src/baekjoon/Bjo11047.java,1/3/13c014d35a76864a2fff2d1db3569d780a81e07c
