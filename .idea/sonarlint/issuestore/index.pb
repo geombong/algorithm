@@ -50,3 +50,9 @@ J
 src/baekjoon/Bjo10773.java,9/6/966f9e287ad0e71d105de76842ba64707a7e32d1
 J
 src/baekjoon/Bjo11047.java,1/3/13c014d35a76864a2fff2d1db3569d780a81e07c
+J
+src/baekjoon/Bjo10814.java,1/d/1d1c4724fae548d59f4231504e942329dbb48a65
+J
+src/baekjoon/Bjo10845.java,6/6/662ebed518a5c533ef77d756493560e04e02cc75
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
