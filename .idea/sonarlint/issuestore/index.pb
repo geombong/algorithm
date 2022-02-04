@@ -1,16 +1,10 @@
 
 I
-src/baekjoon/Bjo1978.java,7/d/7d1b0df99a6dd5c48b9a73cab3b9bf9b7e589084
-I
 src/baekjoon/Bjo2558.java,e/b/eb4900f76db1fd4ba89ff7f98da7d18cfc18f13e
 I
 src/baekjoon/Bjo2292.java,8/3/8351fe1acdb8b94d33334bfd6e0c243dd8985d06
 J
 src/baekjoon/Bjo10953.java,7/c/7cc530a3dd1e7dc9a26e6425b5539276a24ff31a
-J
-src/baekjoon/Bjo10430.java,e/0/e0f3c113b51c8dababada3fb7c9818ff5ecd2574
-I
-src/baekjoon/Bjo1463.java,2/5/25fb83d9927caf07b9f5c905e9fe85443e51d59f
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -33,12 +27,6 @@ I
 I
 src/baekjoon/Bjo9012.java,9/a/9a0940726a6d89a12ce02d916952636d2f347168
 J
-src/baekjoon/Bjo10773.java,9/6/966f9e287ad0e71d105de76842ba64707a7e32d1
-J
-src/baekjoon/Bjo11047.java,1/3/13c014d35a76864a2fff2d1db3569d780a81e07c
-J
-src/baekjoon/Bjo10814.java,1/d/1d1c4724fae548d59f4231504e942329dbb48a65
-J
 src/baekjoon/Bjo10828.java,d/a/dac58133276f1a3ecbb82706d8b2a893f8b32f2a
 I
 src/baekjoon/Bjo4153.java,0/d/0d45978485a98ff9147e376f489c471d6bc71778
@@ -50,8 +38,6 @@ J
 src/baekjoon/Bjo11050.java,e/f/efcd666bf53f318125ea9940e6d2ceeea50f18cd
 J
 src/baekjoon/Bjo10845.java,6/6/662ebed518a5c533ef77d756493560e04e02cc75
-J
-src/baekjoon/Bjo11022.java,0/4/04aba8726595fb48522c91ed0c81dd08b31fa9b3
 J
 src/baekjoon/Bjo11399.java,9/c/9c167c2e910d25bce039c000b0ae588fa61967ca
 I
