@@ -42,5 +42,21 @@ J
 src/baekjoon/Bjo10828.java,d/a/dac58133276f1a3ecbb82706d8b2a893f8b32f2a
 I
 src/baekjoon/Bjo4153.java,0/d/0d45978485a98ff9147e376f489c471d6bc71778
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+I
+src/baekjoon/Bjo2869.java,6/9/6931a388e2e3ad056715c5aaebb2137e5d35cb61
+J
+src/baekjoon/Bjo10816.java,a/8/a88a61f06020ebe3dcdb3ef034d6a6cd7187713e
+J
+src/baekjoon/Bjo11050.java,e/f/efcd666bf53f318125ea9940e6d2ceeea50f18cd
+J
+src/baekjoon/Bjo10845.java,6/6/662ebed518a5c533ef77d756493560e04e02cc75
+J
+src/baekjoon/Bjo11022.java,0/4/04aba8726595fb48522c91ed0c81dd08b31fa9b3
+J
+src/baekjoon/Bjo11399.java,9/c/9c167c2e910d25bce039c000b0ae588fa61967ca
+I
+src/baekjoon/Bjo2750.java,4/0/409bd9c8963e909d2be04de7211f88d2e142c04d
+I
+src/baekjoon/Bjo1924.java,a/c/aceff855193960a034f7fbeb5f56252c09477316
+I
+src/baekjoon/Bjo1181.java,b/4/b44a5376390e532ff1b14842100d298c4c8eac99

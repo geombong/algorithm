@@ -40,6 +40,7 @@
 | <a href = https://www.acmicpc.net/problem/11047>동전0</a>  | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo11047.java>💻</a> |  |
 | <a href = https://www.acmicpc.net/problem/10816>숫자카드 2</a> | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo10816.java>💻</a> |  |
 | <a href = https://www.acmicpc.net/problem/4153>직각삼각형</a> | <a href = https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo4153.java>💻</a>  |  |
+| <a href = https://www.acmicpc.net/problem/2798>블랙잭</a>   | [💻](https://github.com/geombong/algorithm/blob/master/src/baekjoon/Bjo2798.java)             |  |
 
 </div>
 </details>
