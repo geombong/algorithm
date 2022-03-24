@@ -63,3 +63,5 @@ I
 src/baekjoon/Bjo7568.java,2/3/23eb331cbaff34ed362ce6d6bd640df2d293e58d
 I
 src/baekjoon/Bjo2164.java,d/5/d567234c45562b1797b008c48ec9a2cf7faa7dfc
+K
+src/etc/WordInSentence.java,8/9/89709cc0eff3d9e3a13f8f36344c1984d47ca2a6
