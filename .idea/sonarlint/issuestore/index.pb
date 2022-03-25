@@ -65,3 +65,9 @@ I
 src/baekjoon/Bjo2164.java,d/5/d567234c45562b1797b008c48ec9a2cf7faa7dfc
 K
 src/etc/WordInSentence.java,8/9/89709cc0eff3d9e3a13f8f36344c1984d47ca2a6
+G
+src/etc/FindString.java,e/d/ed8956865737ad83f74ede6ce675bb8ab70f95eb
+M
+src/etc/UpperLowerChange.java,9/5/9538986788532c81e30257052c6666b8ae7bffdc
+H
+src/etc/WordReverse.java,4/1/416b6ee99e03baeb9088b6cc1d4242d11e3b6d3f
