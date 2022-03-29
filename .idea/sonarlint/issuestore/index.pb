@@ -71,3 +71,7 @@ M
 src/etc/UpperLowerChange.java,9/5/9538986788532c81e30257052c6666b8ae7bffdc
 H
 src/etc/WordReverse.java,4/1/416b6ee99e03baeb9088b6cc1d4242d11e3b6d3f
+P
+ src/etc/ReverseSpecificChar.java,3/2/32b2eaedb330fad1a09ca0af335a822830b6def3
+L
+src/etc/DuplicateString.java,1/9/19ae7046c4eb7279ca3b47b12d9f67dd306500ac
