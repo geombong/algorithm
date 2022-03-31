@@ -9,6 +9,7 @@ public class StringCompression {
         public String solution(String str) {
             String answer = "";
             StringBuilder stringBuilder = new StringBuilder();
+            str += " ";
             char tmp = ' ';
             char[] chars = str.toCharArray();
             int count = 1;
@@ -23,9 +24,6 @@ public class StringCompression {
                     count = 1;
                 }
                 tmp = ch;
-            }
-            if (count != 1) {
-                stringBuilder.append(count);
             }
             answer = stringBuilder.toString();
             return answer;
