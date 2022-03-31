@@ -75,3 +75,11 @@ P
  src/etc/ReverseSpecificChar.java,3/2/32b2eaedb330fad1a09ca0af335a822830b6def3
 L
 src/etc/DuplicateString.java,1/9/19ae7046c4eb7279ca3b47b12d9f67dd306500ac
+L
+src/etc/ValidPalindrome.java,8/f/8f702dfa1c344322ddf99550fda73b1c16b98b9a
+G
+src/etc/Palindrome.java,e/0/e0c81def2343bbd414fad782a1fd6c6809bf7a17
+P
+ src/etc/NumericalExtraction.java,1/5/15b14b129c4f80554a9e7b42e33f77baa1fae569
+Q
+!src/etc/shortestCharDistance.java,a/4/a475aa9cef42eb09330309d3152d5cb7f92ed410
