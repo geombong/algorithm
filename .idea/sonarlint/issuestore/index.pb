@@ -83,3 +83,5 @@ P
  src/etc/NumericalExtraction.java,1/5/15b14b129c4f80554a9e7b42e33f77baa1fae569
 Q
 !src/etc/shortestCharDistance.java,a/4/a475aa9cef42eb09330309d3152d5cb7f92ed410
+N
+src/etc/StringCompression.java,4/a/4a76f39cbb353d3b63eba71c7011bfab8aa5d17b
