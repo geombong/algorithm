@@ -63,25 +63,3 @@ I
 src/baekjoon/Bjo7568.java,2/3/23eb331cbaff34ed362ce6d6bd640df2d293e58d
 I
 src/baekjoon/Bjo2164.java,d/5/d567234c45562b1797b008c48ec9a2cf7faa7dfc
-K
-src/etc/WordInSentence.java,8/9/89709cc0eff3d9e3a13f8f36344c1984d47ca2a6
-G
-src/etc/FindString.java,e/d/ed8956865737ad83f74ede6ce675bb8ab70f95eb
-M
-src/etc/UpperLowerChange.java,9/5/9538986788532c81e30257052c6666b8ae7bffdc
-H
-src/etc/WordReverse.java,4/1/416b6ee99e03baeb9088b6cc1d4242d11e3b6d3f
-P
- src/etc/ReverseSpecificChar.java,3/2/32b2eaedb330fad1a09ca0af335a822830b6def3
-L
-src/etc/DuplicateString.java,1/9/19ae7046c4eb7279ca3b47b12d9f67dd306500ac
-L
-src/etc/ValidPalindrome.java,8/f/8f702dfa1c344322ddf99550fda73b1c16b98b9a
-G
-src/etc/Palindrome.java,e/0/e0c81def2343bbd414fad782a1fd6c6809bf7a17
-P
- src/etc/NumericalExtraction.java,1/5/15b14b129c4f80554a9e7b42e33f77baa1fae569
-Q
-!src/etc/shortestCharDistance.java,a/4/a475aa9cef42eb09330309d3152d5cb7f92ed410
-N
-src/etc/StringCompression.java,4/a/4a76f39cbb353d3b63eba71c7011bfab8aa5d17b
