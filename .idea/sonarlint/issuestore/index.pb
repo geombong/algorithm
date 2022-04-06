@@ -87,3 +87,9 @@ H
 src/etc/LargeNumber.java,a/6/a69914bfd0d3c776cde2ce1a1f3b61116f149ed2
 Q
 !src/etc/shortestCharDistance.java,a/4/a475aa9cef42eb09330309d3152d5cb7f92ed410
+N
+src/etc/StringCompression.java,4/a/4a76f39cbb353d3b63eba71c7011bfab8aa5d17b
+K
+src/etc/VisibleStudent.java,4/8/48d61fc49752956c2f3c33be28da9d83abde8b85
+N
+src/etc/RockPaperScissors.java,6/e/6ef25847044cc27dda689ca3233606c6c6922665
