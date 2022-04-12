@@ -12,16 +12,13 @@ public class maximumSales {
         public int solution(int days, int[] salesByDate) {
             int answer = 0;
             int maximumSales = 0;
-            int slideCount = days;
-            for (int i = 0; i < salesByDate.length - (days - 1); i++) {
-                for (int j = i; j < slideCount; j++) {
-                    maximumSales += salesByDate[j];
-                }
-                if (answer < maximumSales) {
-                    answer = maximumSales;
-                }
-                slideCount++;
-                maximumSales = 0;
+            for (int i = 0; i < days; i++) {
+                maximumSales += salesByDate[i];
+            }
+            answer = maximumSales;
+            for (int i = days; i < salesByDate.length; i++) {
+                maximumSales += (salesByDate[i] - salesByDate[i - days]);
+                answer = Math.max(answer, maximumSales);
             }
             return answer;
         }
