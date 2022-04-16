@@ -67,8 +67,6 @@ E
 src/etc/Password.java,9/9/995d31e6c17c752c7500c7097aa15961fb6f4e1b
 L
 src/etc/DuplicateString.java,1/9/19ae7046c4eb7279ca3b47b12d9f67dd306500ac
-G
-src/etc/FindString.java,e/d/ed8956865737ad83f74ede6ce675bb8ab70f95eb
 M
 src/etc/UpperLowerChange.java,9/5/9538986788532c81e30257052c6666b8ae7bffdc
 L
