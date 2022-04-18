@@ -93,3 +93,15 @@ N
 src/etc/RockPaperScissors.java,6/e/6ef25847044cc27dda689ca3233606c6c6922665
 O
 src/etc/concatenationOfTwo.java,b/8/b8ee17637a09627ebf55258c69ac4f9b562e1c29
+N
+src/etc/FibonacciSequence.java,b/f/bfa6ab1444aeda7e3fb7320fbb05e7fe8af4128d
+I
+src/etc/PrimeNumbers.java,7/5/75ba42a2ff10e8d09c911d49a3ab4fc92b95b404
+R
+"src/etc/findingCommonElements.java,9/0/90d0f26fcfec9308e235236e9f5c059f084859be
+G
+src/etc/FindString.java,e/d/ed8956865737ad83f74ede6ce675bb8ab70f95eb
+D
+src/etc/Anagram.java,3/8/38d273252c4473a2be0b7ff30c1a7434e4fa5dbc
+K
+src/etc/ClassPresident.java,6/d/6d62cd5babeb7fa0635d3f34c992125250f1373a
