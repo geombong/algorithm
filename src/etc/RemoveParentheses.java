@@ -11,22 +11,19 @@ import java.util.Stack;
 public class RemoveParentheses {
     static class Main {
         public Stack<Character> solution(String str) {
-            Stack<Character> answer;
+            Stack<Character> answer = new Stack<>();
             char[] chars = str.toCharArray();
-            Stack<Character> stack = new Stack<>();
             for (char c : chars) {
                 if (c != ')') {
-                    stack.push(c);
+                    answer.push(c);
                 } else {
-                    char tmp = ' ';
-                    while (tmp != '(') {
-                        stack.pop();
-                        tmp = stack.peek();
+                    while (c != '(') {
+                        answer.pop();
+                        c = answer.peek();
                     }
-                    stack.pop();
+                    answer.pop();
                 }
             }
-            answer = stack;
             return answer;
         }
 
