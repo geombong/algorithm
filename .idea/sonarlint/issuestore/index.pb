@@ -101,6 +101,8 @@ R
 "src/etc/findingCommonElements.java,9/0/90d0f26fcfec9308e235236e9f5c059f084859be
 G
 src/etc/FindString.java,e/d/ed8956865737ad83f74ede6ce675bb8ab70f95eb
+I
+src/etc/maximumSales.java,0/5/05579bf627b9767c96abbd0b0a94f89028cd8e88
 D
 src/etc/Anagram.java,3/8/38d273252c4473a2be0b7ff30c1a7434e4fa5dbc
 K
