@@ -107,3 +107,6 @@ D
 src/etc/Anagram.java,3/8/38d273252c4473a2be0b7ff30c1a7434e4fa5dbc
 K
 src/etc/ClassPresident.java,6/d/6d62cd5babeb7fa0635d3f34c992125250f1373a
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
