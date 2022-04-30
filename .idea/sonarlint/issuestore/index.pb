@@ -110,3 +110,11 @@ K
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+H
+src/etc/TypeOfSales.java,f/1/f14542313e2708bbc38f1387823ae89502f77d4a
+O
+src/etc/CorrectParenthesis.java,6/c/6cd871ff04b51450055e4638f907231fc8b64d5c
+N
+src/etc/RemoveParentheses.java,b/2/b2f384ef139f108088fb14a9ca0263bea763509f
+L
+src/etc/CranePuppetDraw.java,7/f/7f884ddfd437ecd749d8957855252e05f2cf4e01
