@@ -10,7 +10,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class findingCommonElements {
+public class FindingCommonElements {
 
     static class Main {
         public List<Integer> solution(int[] numbers1, int[] numbers2) {
