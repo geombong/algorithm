@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class maximumSales {
+public class MaximumSales {
     static class Main {
         public int solution(int days, int[] salesByDate) {
             int answer = 0;

@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class concatenationOfTwo {
+public class ConcatenationOfTwo {
     static class Main {
         public List<Integer> solution(int[] numbers1, int[] numbers2) {
             List<Integer> answer = new ArrayList<>();
