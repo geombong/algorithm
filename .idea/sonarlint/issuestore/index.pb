@@ -118,3 +118,11 @@ N
 src/etc/RemoveParentheses.java,b/2/b2f384ef139f108088fb14a9ca0263bea763509f
 L
 src/etc/CranePuppetDraw.java,7/f/7f884ddfd437ecd749d8957855252e05f2cf4e01
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+W
+'src/programmers/IHateTheSameNumber.java,2/0/20e64771a4e7027ff920216ebf12328f10bf179b
+W
+'src/programmers/CorrectParenthesis.java,8/f/8fdaef8c425d64d781a41dea79ef3c8480a32dc0
+U
+%src/etc/ConferenceRoomAssignment.java,9/4/9420b2826a5bd112a19308bc0d4d2e8ae6380253
